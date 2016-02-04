@@ -1,2 +1,2 @@
-# localization
+# Localization
 Agile localization
